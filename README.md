@@ -1,6 +1,6 @@
 # SmallFacebookApp (FaceClone Project)
-##### This repo contains the full project for my Medium series on building a Facebook clone with PHP from scratch.
-##### This app : SOCIAL NETWORK APP is like the example of Facebook app. we develop it using (JS, HTML, CSS, BOOTSTRAP, MySQL and PHP)
+This repo contains the full project for my Medium series on building a Facebook clone with PHP from scratch. <br>
+This app : SOCIAL NETWORK APP is like the example of Facebook app. we develop it using (JS, HTML, CSS, BOOTSTRAP, MySQL and PHP)
 
 ### Part 1
 * Install the necessary apps (Sublime Text 3, XAMPP and Filezilla)
